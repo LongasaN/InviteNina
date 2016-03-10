@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InVite2</string>
+    <string name="action_settings">Settings</string>
+    <string name="invite">InVite</string>
+    <string name="add_host">Add Host</string>
+    <string name="title_activity_add_host">Add Host</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="title_activity_view_meeting">View Meeting</string>
+    <string name="add_meeting">Add Meeting</string>
+    <string name="title_activity_add_meeting">Add Meeting</string>
+</resources>

@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.susie.invite.MainActivity">
+    <item
+        android:id="@+id/action_invite"
+        android:orderInCategory="1"
+        android:title="@string/invite"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_add_host"
+        android:orderInCategory="2"
+        android:title="@string/add_host"
+        app:showAsAction="never" />
+</menu>
